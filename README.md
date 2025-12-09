@@ -1,4 +1,5 @@
-# PyData-Global-2025
+# PyData-Global-2025 <img width="358" height="141" alt="image" src="https://github.com/user-attachments/assets/eccbd901-d8b3-4f48-a80b-2af47db98a97" />
+
 This repository contains the code, slides, and demo files used in my PyData Global 2025 talk:
 “Python + Excel: Smarter Workflows for Analysts and Data Teams.”
 
@@ -29,8 +30,9 @@ To run the demos:
 
     pip install xlwings xlsxwriter openpyxl pandas
 
-📚 About the Speaker
 Excel desktop (Windows or Mac) with xlwings add-in added is required for xlwings demos. 
+
+📚 About the Speaker
 
 Dr. Nisha Arora is a data professional specializing in analytics, automation, and Excel–Python workflows. 
 She creates practical learning content, delivers trainings, and focuses on making advanced tools accessible to analysts and business users.
